@@ -2,7 +2,13 @@
   "name": "pilarik31/laravel-teamwork",
   "description": "A Laravel wrapper for the Teamwork API",
   "type": "library",
-  "license": "",
+  "license": "GPL-3.0-or-later",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/pilarik31/laravel-teamwork"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "SquareBit\\Dovetail\\": "src/",
